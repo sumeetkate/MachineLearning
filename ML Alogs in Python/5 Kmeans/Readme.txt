@@ -1,0 +1,1 @@
+Running the Program : python Kmeans.py kdata.txt 2
